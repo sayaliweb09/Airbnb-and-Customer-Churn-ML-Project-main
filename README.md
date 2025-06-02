@@ -79,8 +79,8 @@ Build a **classification model** to predict whether a telecom customer will chur
 ---
 
 ## 👨‍💻 Author
-- Himanshu Jagga
-- https://www.linkedin.com/in/himanshu-jagga-b08ab6170/
+- Sayali Gajbhiye
+- www.linkedin.com/in/sayaligajbhiye
 
 ---
 
